@@ -4,7 +4,8 @@ Una calculadora simple desarrollada con **HTML**, **CSS** y **JavaScript**, dise
 
 ## 🚀 Vista previa
 
-![Captura del proyecto](./ruta-a-tu-captura.png)
+![image](https://github.com/user-attachments/assets/ed837233-1f0b-4f35-969d-4e3187155f15)
+
 
 ## 🎯 Objetivo
 
